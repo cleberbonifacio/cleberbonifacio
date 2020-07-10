@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleberbonifacio/)](https://www.linkedin.com/in/cleberbonifacio/){:target="_blank"}
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleberbonifacio/)](https://www.linkedin.com/in/cleberbonifacio/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bonifaciocleber@gmail.com)](mailto:bonifaciocleber@gmail.com)
 
 </h1>
