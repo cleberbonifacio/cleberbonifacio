@@ -14,7 +14,7 @@
 
 - 🎓 Formado em Análise e desenvolvimento de Sistemas
 - 🎓 Pós Graduado em Aplicativos móveis e computação em nuvem
-- 💻 Atuando como Backend Developer PHP
+- 💻 Atuando como Backend Developer
 - 📝 Estudando intensivamente as tecnologias Javascript ES6+, NodeJS, ReactJS e React Native do zero ao deploy.
 
 
